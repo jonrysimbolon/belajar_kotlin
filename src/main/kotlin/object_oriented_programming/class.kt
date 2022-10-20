@@ -21,6 +21,8 @@ fun main() {
     println("Nama: ${dicodingCat.name}")
 }
 
+
+// memanfaatkan property accessor get() dan set()
 class Animal2{
     var name: String = "Dicoding Miaw"
         get(){
